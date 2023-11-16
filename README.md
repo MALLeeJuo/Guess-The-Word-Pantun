@@ -1,4 +1,7 @@
 # Guess The Word Pantun
+Guess The Word Pantun is a game developed in Unity and purpose to help students to learn Pantun in new exciting ways, 
+This game designed to help out those students who are in trouble in learning pantun, memorizing pantun and vocabulary skills
+
 The game was based on word guessing and elements are Pantun poems, 
 Pantun is a Malay oral poetic form used to express intricate ideas and emotions.
 For More Information about Pantun, [here](https://en.wikipedia.org/wiki/Pantun)
