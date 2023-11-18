@@ -2,7 +2,7 @@
 
 Educational Project Only
 
-Preview: malleejuo.itch.io/guess-the-word-pantun
+Preview: https://malleejuo.itch.io/guess-the-word-pantun
 
 Guess The Word Pantun is a game developed in Unity and purpose to help students to learn Pantun in new exciting ways, 
 This game designed to help out those students who are in trouble in learning pantun, memorizing pantun and vocabulary skills
